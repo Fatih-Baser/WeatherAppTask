@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherAppTask</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--  Search fragment  -->
+    <string name="search_fragment_edit_text_hint">Wpisz ulica, addres lub miasto…</string>
+    <string name="search_fragment_search_btn">Szukaj</string>
+
+    <!--  Details Fragment  -->
+
+    <string name="details_fragment_wniosek">%1$s\nTemperature: %2$s °C\nWilgotność: %3$s %%\nNacisk: %4$s mm</string>
+    <string name="weather_state_icon">Weather ikona stanu</string>
+</resources>
