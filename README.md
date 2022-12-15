@@ -4,5 +4,5 @@
 (Architecture Components, MVVM, Kotlin, Rx java, Retrofit, Navigation, Dagger 2,Room ,Glide and Clean Architecture).
 
 
-you can follow this path and use the API you obtained from [api Weather](https://www.weatherapi.com/) 
+you can follow this path and use the API you obtained from [Api Weather](https://www.weatherapi.com/) 
 
